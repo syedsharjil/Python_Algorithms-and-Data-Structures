@@ -1,10 +1,10 @@
 # Assignment 
 1. What is the value of f(255) for the function below?
 def f(x):
-    d=0
-    while x >= 1:
-        (x,d) = (x/4,d+1)
-    return(d)
+    d=0;
+    while(x>=1)
+        (x,d) =(x/4,d+1)
+    return(d);
 
 Ans:
 
