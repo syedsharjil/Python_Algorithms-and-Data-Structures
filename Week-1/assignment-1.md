@@ -18,7 +18,7 @@ def h(n):
            s = s+i
     return(s)
 ```
-Ans: 16
+Ans: 15
 
 3. For what value of n would g(47,n) return 5?
 ```    
@@ -28,7 +28,7 @@ Ans: 16
         (res,m) = (res+1,m-n)
     return(res)
 ```
-Ans: 5
+Ans: 9
 
 4. Consider the following function f:
 ```
