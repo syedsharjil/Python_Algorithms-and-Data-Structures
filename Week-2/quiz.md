@@ -12,7 +12,7 @@ x[1][1:2] = 'yzw'              # Statement 8
 w[4][0] = 1000                 # Statement 9
 a = (x[4][1] == 4)             # Statement 10
 ```
-
+Ans: 
 
 2. Consider the following lines of Python code.
 ```
@@ -25,6 +25,8 @@ w[0] = 53
 x[1] = 47
 
 ```
+Ans:
+
 3. Which of the following is correct?
  
  
@@ -34,6 +36,7 @@ x[1] = 47
  x[1] == 47, y[1] == 42, w[0] == 53, u[0] == 53
  x[1] == 47, y[1] == 42, w[0] == 53, u[0] == 53
 ```
+Ans:
 
 4. What is the value of second after executing the following lines?
 ```
@@ -42,6 +45,7 @@ second = ""
 for i in range(len(first),0,-1):
   second = first[i-1] + second
 ```
+Ans: 
 
 5. What is the value of list1 after the following lines are executed?
 def mystery(l):
@@ -50,3 +54,5 @@ def mystery(l):
 
 list1 = [7,82,44,23,11]
 mystery(list1)
+
+Ans: 
